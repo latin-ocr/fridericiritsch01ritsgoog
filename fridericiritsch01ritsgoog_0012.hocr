@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiritsch01ritsgoog_0012.png"; bbox 0 0 2850 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 10 1596 1291 2371">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 10 1596 1291 2371">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 1596 1142 1682; baseline 0.006 -8"><span class='ocrx_word' id='word_1_1' title='bbox 335 1596 508 1680; x_wconf 79' lang='lat' dir='ltr'>VIRO</span> <span class='ocrx_word' id='word_1_2' title='bbox 537 1596 1142 1682; x_wconf 66' lang='lat' dir='ltr'>·PLAvT1N18s1M0</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 10 1816 1291 1922; baseline -0.001 0"><span class='ocrx_word' id='word_1_3' title='bbox 10 1848 13 1853; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 171 1816 1291 1922; x_wconf 73' lang='lat' dir='ltr'><strong>ALFREDO·FLEOKEISENO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 481 2066 999 2152; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 481 2066 999 2152; x_wconf 55' lang='lat' dir='ltr'>AMlcow‘Nzloo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 596 2286 881 2371; baseline 0.007 -2"><span class='ocrx_word' id='word_1_6' title='bbox 596 2286 881 2371; x_wconf 75' lang='lat' dir='ltr'>SAORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1430 5032">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1430 5032">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1430 5032; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1430 5032; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
